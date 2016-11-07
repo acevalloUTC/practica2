@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+head
+Mauro pichucho
+body
+Geoconda Esquivel
+foot
+
+Madrid Stalyn 
+=======
 //Guayaquil
+>>>>>>> refs/remotes/origin/master
