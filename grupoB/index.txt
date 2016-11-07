@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//ambato
 Head
 Mary Unaucho
 Anderson Carrera
@@ -6,6 +6,4 @@ Body
 Monica Constante
 Foot
 Judith Tituana
-=======
-//ambato
->>>>>>> refs/remotes/origin/master
+
