@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+<head>
+mayravelasco
+</head>
+<body>
+Blanca
+Aguaiza
+</body>
+<food>
+//Diego Guachamin
+=======
 //Babahoyo
+>>>>>>> refs/remotes/origin/master
