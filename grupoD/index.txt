@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+head
+Mayra Martinez
+Alex Toapanta
+body
+Paul Guanochanga
+foot
+Dario Tulmo
+=======
 //quito
+>>>>>>> refs/remotes/origin/master
