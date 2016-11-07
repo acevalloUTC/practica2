@@ -1,1 +1,8 @@
 //Tulcán
+head
+mauricio
+alba
+body
+Jonathan
+foot
+mario
