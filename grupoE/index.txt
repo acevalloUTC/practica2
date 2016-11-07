@@ -1,1 +1,13 @@
 //Cuenca
+<head> </head>
+Cristina Lozada
+<body> </body>
+Jessy
+<foot>
+Gaby 
+</foot>
+
+
+
+
+
